@@ -1,0 +1,81 @@
+{
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-01-18 10:59:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/aluminum_base": {
+    "criteria": {
+      "has_ingot": "2024-01-18 10:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-01-18 10:59:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/silver_base": {
+    "criteria": {
+      "has_ingot": "2024-01-18 10:59:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/iron_base": {
+    "criteria": {
+      "has_ingot": "2024-01-18 10:59:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/platinum_base": {
+    "criteria": {
+      "has_ingot": "2024-01-18 10:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-01-18 10:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-01-18 10:59:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/wooden_base": {
+    "criteria": {
+      "has_slab": "2024-01-18 10:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-01-18 10:59:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2024-01-18 10:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-01-18 10:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-01-18 10:59:11 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
